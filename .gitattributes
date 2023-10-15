@@ -2,5 +2,5 @@
 *.C++ linguist-detectable=false
 *.java linguist-detectable=false
 *.css linguist-detectable=false
-*.js linguist-detectable=true
+*.js linguist-detectable=false
 
